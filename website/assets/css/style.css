@@ -1,3 +1,57 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+
+.card-title {
+    color: blue
+}
+
+.text1{
+    font-size: 5.5rem;
+    text-align: center;
+    width: 97%;
+    position: absolute;
+    top: 200px;
+    left: 25px;
+    background-color: white;
+}
+
+.text2{
+    font-size: 3.5rem;
+    text-align: center;
+    width: 97%;
+    position: absolute;
+    top: 350px;
+    left: 25px;
+    background-color: white;  
+}
+
+.second-heading {
+    height: 120px;
+    margin-bottom: auto;
+}
+
+.imgSecondHeader {
+    border-radius: 50%;
+
+}
+
+.second-heading-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.taglineimage {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    float: right;
+    
+}
+
+.containertag {
+    height:600px;
 }
